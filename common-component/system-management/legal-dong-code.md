@@ -168,7 +168,7 @@ flowchart LR
  administCodeRecptn.setCreatDe               (tokenData[ 9]);    // 생성일자             :: 생성일자
  administCodeRecptn.setAblDe                 (tokenData[10]);    // 폐지일자             :: 폐지일자
  administCodeRecptn.setAblEnnc               (tokenData[11]);    // 폐지유무             :: 폐지유무
- administCodeRecptn.setUseAt                 (tokenData[11]);    // 폐지유무             :: 사용여부
+ administCodeRecptn.setUseAt                 (tokenData[11]);    // 사용여부             :: 사용여부
 ```
 
 ### 법정동코드수신 목록조회
